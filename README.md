@@ -1,4 +1,4 @@
-# images
+## Images
 Images for my personal blogs in:
 - [2026](blog/2026)
 - [2024](blog/2024)
@@ -9,4 +9,6 @@ Images for my personal blogs in:
 - [2019](blog/2019)
 - [2018](blog/2018)
 
-
+## Documents
+Documents for my personal blogs in:
+- [2026](document/2026)
